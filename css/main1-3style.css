@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+#main1-3 { width:100%; max-width:1920px; margin:0 auto; }
+#main1-3 #main1-3-section1 { position:relative; width:100%; height:969px; overflow:hidden; }
+#main1-3 #main1-3-section1:before { content:''; z-index:2; display:block;  position:absolute; top:88px; left:0; width:100%; height:100%; outline:2px solid  #a36b4f; outline-offset:-32px; }
+#main1-3 #main1-3-section1>div { position:relative; width:100%; height:969px; background:url(../img/concept/014_CGi_EXT.jpg) no-repeat fixed 0 0; background-size:cover; }
+#main1-3 #main1-3-section1>div .main1-3-section1-title { position:absolute; left:100px; bottom:120px; width:100%; text-align:left; }
+#main1-3 #main1-3-section1>div .main1-3-section1-title>h2 { color:#a36b4f; font-size:60px; font-weight:200; padding-bottom:25px; }
+#main1-3 #main1-3-section1>div .main1-3-section1-title>p { color:#fff; font-size:16px; font-weight:100; }
+
+
+
+
+#main1-3 #main1-3-section2 { width:100%; height:780px;  }
+#main1-3 #main1-3-section2>div { position:relative; width:100%; height:780px; background:url(../img/concept/004_Sketch_EXT_780.jpg) no-repeat fixed 50% 50%; background-size:cover; }
+#main1-3 #main1-3-section2>div .main1-3-section2-title { position:absolute; left:0; bottom:50px; width:100%; text-align:center; }
+#main1-3 #main1-3-section2>div .main1-3-section2-title>h2 { color:#a36b4f; font-size:32px; font-weight:200; padding-bottom:25px; }
+#main1-3 #main1-3-section2>div .main1-3-section2-title>p { color:#000; font-size:16px; font-weight:100; line-height:150%; }
+
+
+
+#main1-3 #main1-3-section3 { width:100%; height:470px; background:rgb(0,0,0); }
+#main1-3 #main1-3-section3>div { width:100%; }
+#main1-3 #main1-3-section3>div>ul { width:100%; }
+#main1-3 #main1-3-section3>div>ul>li { float:left; width:50%; }
+#main1-3 #main1-3-section3>div>ul>li>div { position:relative; width:100%; height:470px; overflow:hidden; }
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-img-wrap { z-index:1; opacity:0.7; transform:scale(1); transition:all .6s; position:relative; width:100%; height:470px; }
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-img-wrap.addClassZoom { opacity:1; transform:scale(1.05); }
+
+#main1-3 #main1-3-section3>div>ul>li:nth-child(1)>div div.section3-img-wrap { background:url(../img/concept/015_CGi_EXT_01.jpg) no-repeat 0 0; background-size:cover; }
+#main1-3 #main1-3-section3>div>ul>li:nth-child(2)>div div.section3-img-wrap { background:url(../img/concept/Concept-vehicle_00_Main_01_vehicles-essentia.jpg) no-repeat 50% 50%; background-size:cover; }
+
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-title-wrap { z-index:2; position:absolute; top:0; left:0; padding:80px;}
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-title-wrap>h2 { font-size:45px; color:#a36b4f; font-weight:300; }
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-title-wrap>p { font-size:16px; color:#fff; padding:20px 0 25px 0; font-weight:100; }
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-title-wrap>span { display:inline-block; }
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-title-wrap>span>strong { font-size:20px; color:#fff; transition:all .6s; font-weight:100; }
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-title-wrap>span>strong.addClassZoom { color:#a36b4f; }
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-title-wrap>span>span { margin-top:15px; display:block; width:100%; height:1px; background:#fff; }
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-title-wrap>span>span>i { display:block; width:0; transition:all .6s; height:1px; background:#a36b4f; }
+#main1-3 #main1-3-section3>div>ul>li>div div.section3-title-wrap>span>span>i.addClassZoom { width:100%; }
+
+#main1-3 #main1-3-section3>div>ul>li>div a.conceptMoreBt {  z-index:3; display:block; position:absolute; top:0; left:0; width:100%; height:100%; }
+
+#main1-3 #main1-3-section4 { width:100%; height:470px; background:rgb(0,0,0); }
+#main1-3 #main1-3-section4>div { width:100%; height:470px; }
+#main1-3 #main1-3-section4>div>ul { width:100%; }
+#main1-3 #main1-3-section4>div>ul>li { float:left; width:33.333333%; }
+#main1-3 #main1-3-section4>div>ul>li>div { position:relative; width:100%; height:470px; overflow:hidden; }
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-img-wrap { z-index:1; opacity:0.7; transform:scale(1); transition:all .6s; position:relative; width:100%; height:470px; }
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-img-wrap.addClassZoom { opacity:1; transform:scale(1.05); }
+
+
+#main1-3 #main1-3-section4>div>ul>li:nth-child(1)>div div.section4-img-wrap { background:url(../img/concept/Concept-vehicle_00_Main_02_GV802-3.jpg) no-repeat 77% 50%; background-size:cover; }
+#main1-3 #main1-3-section4>div>ul>li:nth-child(2)>div div.section4-img-wrap { background:url(../img/concept/Concept-vehicle_00_Main_03_Newyork-concept2_2.jpg) no-repeat 77% 50%; background-size:cover; }
+#main1-3 #main1-3-section4>div>ul>li:nth-child(3)>div div.section4-img-wrap { background:url(../img/concept/Concept-vehicle_00_Main_02_Vision-G2_1.jpg) no-repeat 77% 50%; background-size:cover; }
+
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-title-wrap { z-index:2; position:absolute; top:0; left:0; padding:80px 50px;}
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-title-wrap>h2 { font-size:45px; color:#a36b4f; font-weight:300; }
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-title-wrap>p { font-size:16px; color:#fff; padding:20px 0 25px 0; font-weight:100; }
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-title-wrap>span { display:inline-block; }
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-title-wrap>span>strong { font-size:20px; color:#fff; transition:all .6s; font-weight:100; }
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-title-wrap>span>strong.addClassZoom { color:#a36b4f; }
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-title-wrap>span>span { margin-top:15px; display:block; width:100%; height:1px; background:#fff; }
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-title-wrap>span>span>i { display:block; width:0; transition:all .6s; height:1px; background:#a36b4f; }
+#main1-3 #main1-3-section4>div>ul>li>div div.section4-title-wrap>span>span>i.addClassZoom { width:100%; }
+
+#main1-3 #main1-3-section4>div>ul>li>div a.conceptMoreBt {  z-index:3; display:block; position:absolute; top:0; left:0; width:100%; height:100%; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
